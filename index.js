@@ -3,7 +3,7 @@ export default {
 // redeploy trigger
     // 1. Your video list — just update this array
     const videos = [
-      "euoT2DPzS94",
+      "=Y8HOfcYWZoo",
       "3JWTaaS7LdU",
       "Y8HOfcYWZoo",
       "Hat1Hc9SNwE"
