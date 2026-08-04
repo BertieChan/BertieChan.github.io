@@ -1,5 +1,6 @@
 export default {
   async fetch(request) {
+// redeploy after removing build command
 
     // 1. Your video list — just update this array
     const videos = [
