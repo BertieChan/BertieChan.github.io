@@ -3,7 +3,7 @@ export default {
 
     // 1. Your video list — just update this array
     const videos = [
-      "=Y8HOfcYWZoo",
+      "euoT2DPzS94",
       "3JWTaaS7LdU",
       "Y8HOfcYWZoo",
       "Hat1Hc9SNwE"
