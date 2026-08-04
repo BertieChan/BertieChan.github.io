@@ -1,6 +1,6 @@
 export default {
   async fetch(request) {
-
+// redeploy trigger
     // 1. Your video list — just update this array
     const videos = [
       "euoT2DPzS94",
